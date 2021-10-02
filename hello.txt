@@ -9,6 +9,7 @@ Hello,My Git7
 Hello,My Git8
 Hello,My Git9
 Hello,My Git10 master test
+Hello,My Git10 hot-fix test
 Hello,My Git11
 Hello,My Git12
 Hello,My Git13
